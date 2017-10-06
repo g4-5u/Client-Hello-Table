@@ -1,3 +1,8 @@
+ Client Hello Table is a extended version of OpenSSL. It provides a mitigation mechanism against DoS/DDoS attacks on DTLS protocol. 
+
+
+ README of Original OpenSSL is below.
+ ----------------------
 
  OpenSSL 1.0.2j 26 Sep 2016
 
